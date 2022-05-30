@@ -3,9 +3,8 @@
 ![license badge](https://img.shields.io/badge/license-MIT-brightblue)
     
 ## Description
-Beauty Salon is a landing page for Afro Small Businesses to showcase their uniqueness in hairstyle, quality of services, and beauty products
-
-![screencapture-gnesismrtz-github-io-beauty-salon-2022-05-29-20_22_18](https://user-images.githubusercontent.com/95339945/170901864-831e948d-0a85-4a48-8b6a-96c6bb56c3f5.jpg)
+Heladeria is a landing page for an Ice Cream business template with clean UI/UX and flavors.
+![screencapture-gnesismrtz-github-io-heladeria-2022-05-29-20_25_16](https://user-images.githubusercontent.com/95339945/170902033-a6fec738-6d54-4ec5-803b-72eb3a779f74.jpg)
 
 
 ## Table of Contents
